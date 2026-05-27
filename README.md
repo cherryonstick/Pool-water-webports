@@ -13,3 +13,11 @@ Hello, and welcome to Poolwater's Webports (or [Pool-water-webports](https://git
 ---
 
 To install any of these webports start by clicking on any of the folders that are labeled with game names. When you have clicked on the folder continue by clicking on the file labeled `index.html`. Then click on the download button on top of the code box. Some web ports might use loader, If the web port does not load, try to download the whole folder.
+
+---
+
+## Credits
+
+---
+
+Balatro - https://telatro.tomcat.sh/
