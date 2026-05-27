@@ -21,10 +21,31 @@ To install any of these webports start by clicking on any of the folders that ar
 ---
 
 Balatro - https://telatro.tomcat.sh/
+
+---
+
 Bendy - [98Cornbin](https://98cornbin.netlify.app/)
+
+---
+
 Bloodmoney - [genizy](https://github.com/genizy)
+
+---
+
 Home-Alone - [slqntdevss](https://github.com/slqntdevss)
+
+---
+
 Jelly-drift - I can't find credits.
+
+---
+
 The-man-in-the-Window - [genizy](https://github.com/genizy)
+
+---
+
 Ultrakill -  [cakelogic](https://sites.google.com/view/cakelogic/game-logic)
+
+---
+
 buckshot-roulette  - The-man-in-the-Window - [genizy](https://github.com/genizy)
