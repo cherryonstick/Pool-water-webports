@@ -1,6 +1,6 @@
 # Pool-water-webports
 
-> **NOTE:** These games are not mine, these games are meant to be easy to find for playing during school time.
+> **NOTE:** These games are not mine and these games are meant to be easy to find for playing during school time.
 
 ---
 
